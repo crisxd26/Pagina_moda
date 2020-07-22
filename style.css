@@ -451,38 +451,6 @@ p {
 		text-align: center;
 		color:rgb(255, 255, 255);
 	}
-
-	#populares .populares {
-		flex-direction: column;
-		padding: 100px 0;
-		align-items: center;
-		justify-content: center;
-		min-width: 20vh;
-	}
-	#populares .populares-items {
-		width: 100%;
-		display: flex;
-		flex-direction: row;
-		justify-content: space-evenly;
-		margin: 0;
-	}
-	#populares .populares-item {
-		width: 30%;
-		margin: 0;
-		flex-direction: row;
-	}
-	#populares .populares-item .icon {
-		height: 100px;
-		width: 100px;
-	}
-	#populares .populares-item .icon img {
-		object-fit: contain;
-	}
-	#populares .populares-item .populares-info {
-		width: 100%;
-		text-align: left;
-		padding-left: 20px;
-	}
 	.contenedor-imagenes{
 		width: 90%;
 	}
